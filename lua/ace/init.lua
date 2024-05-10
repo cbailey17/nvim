@@ -1,2 +1,2 @@
 require("ace.remap")
-print("Hello from ace")
+require("ace.lazy")
